@@ -1,0 +1,8 @@
+# Gambar mentah hasil ekstrak PDF (besar, tidak dipakai website)
+assets/extracted/
+
+# File sistem macOS
+.DS_Store
+
+# Panduan edit lokal (jangan di-push — file internal)
+PANDUAN-EDIT.md
